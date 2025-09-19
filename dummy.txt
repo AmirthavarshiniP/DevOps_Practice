@@ -1,3 +1,4 @@
 Hi, My name is Amirthavarshini!!!
 I am planning to learn DevOps
 Hellooooo!!!!
+Now learning git branches and merge
